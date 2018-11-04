@@ -40,6 +40,12 @@ fﬁends view has Active Label located at the bottom left of the view, text for 
 the fﬁends view has a search icon located at the very-top right of the view which on click will trigger the search() action
 the fﬁends view has a hamburger menu icon located at the very-top left of the view which on click will trigger the hamburger menu() action
 the fﬁends view has a profile icon located at the mid-top left of the view which on click will trigger the profile() action
+the fﬁends view has a search icon located at the very-top right of the view which on click will trigger the search() action
+the fﬁends view has a hamburger menu icon located at the very-top left of the view which on click will trigger the hamburger menu() action
+the fﬁends view has a profile icon located at the mid-top left of the view which on click will trigger the profile() action
+the fﬁends view has a search icon located at the very-top right of the view which on click will trigger the search() action
+the fﬁends view has a hamburger menu icon located at the very-top left of the view which on click will trigger the hamburger menu() action
+the fﬁends view has a profile icon located at the mid-top left of the view which on click will trigger the profile() action
 
 */
         
